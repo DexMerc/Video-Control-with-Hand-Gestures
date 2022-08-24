@@ -2,8 +2,8 @@
 ## ROBT 206 Microcontrollers course project 
 
 ### Team members
-* Sultan Bauyrzhanuly <bauyrzhanov41@gmail.com>
-* Bauyrzhan Zhakanov  <bauka5609@gmail.com>
+* Sultan B.
+* Bauyrzhan Zh.  <@BZWayne>
 
 ### Project Description
 For implementing this project we used the following components:
